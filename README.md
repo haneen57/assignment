@@ -1,4 +1,4 @@
-# Weight Task 🏋️‍♀️
+# Burger menu 🏋️‍♀️
 
 Flutter application for tracking weight and related tasks.
 
@@ -8,23 +8,5 @@ Flutter application for tracking weight and related tasks.
 
 <img src="https://github.com/haneen57/weighttask/blob/main/screenshots/Screenshot%20(51).png" width="250" />
 
-> ملاحظة: لو اسم الـ branch عندك مش `dev` غيريه بـ `main` أو الاسم الصحيح.
 
----
-
-## 🚀 Features
-- Track weight easily
-- Clean and simple UI
-- Built with Flutter & Dart
-
----
-
-## 🛠️ Tech Stack
-- Flutter
-- Dart
-- Material Design
-
----
-
-## 📂 Project Structure
 
